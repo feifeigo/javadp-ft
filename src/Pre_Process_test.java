@@ -8,12 +8,14 @@ import java.util.Scanner;
 import java.util.Set;
 
 public class Pre_Process_test {
-    private static final String DATASET_DIR = "I:/DP-FTexperiment/dataSets/";
-    private static  final String RESULT_DIR="I:/javadpft/";
+//    private static final String DATASET_DIR = "I:/DP-FTexperiment/dataSets/";
+//    private static  final String RESULT_DIR="I:/javadpft/";
 //    private static final String DATASET_DIR = "E:/ADPFT/dataSets/";
 //    private static  final String RESULT_DIR="E:/ADPFT/result";
 //    private static final String DATASET_DIR = "D:/ADPFT/dataSets/";
 //    private static  final String RESULT_DIR="D:/ADPFT/result";
+    private static final String DATASET_DIR = "D:/IDEA/DP-FTexperiment/dataSets/";
+    private static  final String RESULT_DIR="D:/aaaajavatest/";
     public static void main(String[] args) throws IOException {
         SimCompute sc=new SimCompute();
         boolean directer,privately;
